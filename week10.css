@@ -19,6 +19,8 @@ body{
     list-style: none;
     width: 200px;
     margin: 30px;
+    padding-left: 30px;
+    text-align: left;
 }
 a{
     color: beige;
